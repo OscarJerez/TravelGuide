@@ -4,7 +4,6 @@
     {
         public string Name { get; set; }
         public List<Route> Connections { get; set; }
-
         public City(string name, List<Route> connections)
         {
             Name = name;
