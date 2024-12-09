@@ -1,0 +1,206 @@
+{
+  "cities": [
+    {
+      "name": "Stockholm",
+      "connections": [
+        {
+          "destination": "Oslo",
+          "distance": 525,
+          "time": 390,
+          "cost": 700,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Oslo",
+          "distance": 600,
+          "time": 60,
+          "cost": 1200,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Oslo",
+          "distance": 550,
+          "time": 420,
+          "cost": 800,
+          "travelMethod": "train"
+        },
+        {
+          "destination": "Helsingfors",
+          "distance": 395,
+          "time": 120,
+          "cost": 1500,
+          "travelMethod": "boat"
+        },
+        {
+          "destination": "Helsingfors",
+          "distance": 450,
+          "time": 50,
+          "cost": 2000,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 1100,
+          "time": 90,
+          "cost": 2500,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 1200,
+          "time": 480,
+          "cost": 1800,
+          "travelMethod": "train"
+        }
+      ]
+    },
+    {
+      "name": "Oslo",
+      "connections": [
+        {
+          "destination": "Stockholm",
+          "distance": 525,
+          "time": 390,
+          "cost": 700,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Stockholm",
+          "distance": 600,
+          "time": 60,
+          "cost": 1200,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Stockholm",
+          "distance": 550,
+          "time": 420,
+          "cost": 800,
+          "travelMethod": "train"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 920,
+          "time": 480,
+          "cost": 1800,
+          "travelMethod": "train"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 950,
+          "time": 120,
+          "cost": 2200,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "K�penhamn",
+          "distance": 600,
+          "time": 420,
+          "cost": 800,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "K�penhamn",
+          "distance": 650,
+          "time": 60,
+          "cost": 1500,
+          "travelMethod": "plane"
+        }
+      ]
+    },
+    {
+      "name": "Berlin",
+      "connections": [
+        {
+          "destination": "Stockholm",
+          "distance": 1100,
+          "time": 90,
+          "cost": 2500,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Stockholm",
+          "distance": 1200,
+          "time": 480,
+          "cost": 1800,
+          "travelMethod": "train"
+        },
+        {
+          "destination": "Oslo",
+          "distance": 920,
+          "time": 480,
+          "cost": 1800,
+          "travelMethod": "train"
+        },
+        {
+          "destination": "Oslo",
+          "distance": 950,
+          "time": 120,
+          "cost": 2200,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "K�penhamn",
+          "distance": 400,
+          "time": 60,
+          "cost": 1000,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "K�penhamn",
+          "distance": 450,
+          "time": 240,
+          "cost": 800,
+          "travelMethod": "car"
+        }
+      ]
+    },
+    {
+      "name": "K�penhamn",
+      "connections": [
+        {
+          "destination": "Oslo",
+          "distance": 600,
+          "time": 420,
+          "cost": 800,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Oslo",
+          "distance": 650,
+          "time": 60,
+          "cost": 1500,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 400,
+          "time": 60,
+          "cost": 1000,
+          "travelMethod": "plane"
+        },
+        {
+          "destination": "Berlin",
+          "distance": 450,
+          "time": 240,
+          "cost": 800,
+          "travelMethod": "car"
+        },
+        {
+          "destination": "Stockholm",
+          "distance": 650,
+          "time": 420,
+          "cost": 1200,
+          "travelMethod": "train"
+        },
+        {
+          "destination": "Stockholm",
+          "distance": 700,
+          "time": 90,
+          "cost": 1600,
+          "travelMethod": "plane"
+        }
+      ]
+    }
+  ]
+}
