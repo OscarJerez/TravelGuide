@@ -93,14 +93,14 @@
           "travelMethod": "plane"
         },
         {
-          "destination": "K�penhamn",
+          "destination": "copenhagen",
           "distance": 600,
           "time": 420,
           "cost": 800,
           "travelMethod": "car"
         },
         {
-          "destination": "K�penhamn",
+          "destination": "copenhagen",
           "distance": 650,
           "time": 60,
           "cost": 1500,
@@ -140,14 +140,14 @@
           "travelMethod": "plane"
         },
         {
-          "destination": "K�penhamn",
+          "destination": "copenhagen",
           "distance": 400,
           "time": 60,
           "cost": 1000,
           "travelMethod": "plane"
         },
         {
-          "destination": "K�penhamn",
+          "destination": "copenhagen",
           "distance": 450,
           "time": 240,
           "cost": 800,
@@ -156,7 +156,7 @@
       ]
     },
     {
-      "name": "K�penhamn",
+      "name": "copenhagen",
       "connections": [
         {
           "destination": "Oslo",
