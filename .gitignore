@@ -1,0 +1,55 @@
+# User-specific files
+.vs/
+.vscode/
+.idea/
+
+# User-specific config files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+# JetBrains Rider IDE files
+.idea/
+
+# .NET build output
+bin/
+obj/
+
+# .NET Core and .NET 5+ specific folders
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Windows Installer files
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# VS for Mac
+.vscode/
+
+# npm packages
+node_modules/
+
+# Tye configuration files
+.tye/
+
+# ASP.NET Core and IIS Express settings
+.vsconfig
+.vs2019/
+
+# Local History for Visual Studio
+.vs2019/
+
+# Log files
+*.log
