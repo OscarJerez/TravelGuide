@@ -1,3 +1,5 @@
+using TravelGuide;
+
 public class ValidationService
 {
     public static bool ValidateCity(string cityName, List<City> cities)
